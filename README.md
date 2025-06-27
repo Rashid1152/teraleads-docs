@@ -98,4 +98,5 @@ For questions or support, contact [rashid.aziz1152@gmail.com]
 ---
 
 ## Clinic Dashboard Screenshot
-![image](https://github.com/user-attachments/assets/286a0b75-ccab-4b19-a5e5-fe9744706f34)
+![image](https://github.com/user-attachments/assets/8236d1d3-e088-4db2-959e-dc564b637438)
+
